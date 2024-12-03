@@ -19,6 +19,7 @@ The primary motivation behind MetroRun is to contribute to the trend of digitiza
 ---
 ### Problem Statement
 MetroRun aims to develop a hybrid mobile application that allows passengers of Namma Metro, Bangalore, to purchase tickets online, each with a unique QR code for entry and exit validation.
+
 ---
 ### Scope and Objectives
 
